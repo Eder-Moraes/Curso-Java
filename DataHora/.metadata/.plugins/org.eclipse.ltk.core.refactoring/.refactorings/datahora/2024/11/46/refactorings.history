@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Program.java&apos; to &apos;datahora/src/aula114calculosdata&apos;&#x0D;&#x0A;- Original project: &apos;datahora&apos;&#x0D;&#x0A;- Destination element: &apos;datahora/src/aula114calculosdata&apos;&#x0D;&#x0A;- Original element: &apos;aula113convertdatahoragparal.Program.java&apos;" description="Copy compilation unit" destination="/src&lt;aula114calculosdata" element1="/src&lt;aula113convertdatahoragparal{Program.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1731588573193" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package aula123_ExEnum.entities.enums;
+
+public enum WorkerLevel {
+
+}

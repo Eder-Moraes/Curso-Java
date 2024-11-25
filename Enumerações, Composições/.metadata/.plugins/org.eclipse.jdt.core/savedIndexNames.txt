@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\User\Documents\Cursos\Java\Enumerações, Composições\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3413270776.index
+4058475561.index
