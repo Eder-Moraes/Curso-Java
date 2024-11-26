@@ -2,10 +2,19 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="entities.Order"/>
     <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
-    <fullyQualifiedTypeName name="aula123_ExEnum.entities.enums.WorkerLevel"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="aula123_ExEnum.entities.Worker"/>
+    <fullyQualifiedTypeName name="aula123_ExEnum.entities.enums.WorkerLevel"/>
+    <fullyQualifiedTypeName name="aula123_ExEnum.entities.Department"/>
     <fullyQualifiedTypeName name="aula123_ExEnum.entities.HourContract"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="aula123_ExEnum2.entities.Comment"/>
+    <fullyQualifiedTypeName name="aula123_ExEnum2.entities.Post"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 </qualifiedTypeNameHistroy>
