@@ -14,7 +14,7 @@ public class Program {
 		//UPCASTING
 		
 		Account acc1 = bacc;
-		Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 200.0);
+		Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 0.0);
 		Account acc3 = new SavingsAccount(1004, "Anna", 0.0, 0.01);
 		
 		//DOWNCASTING
@@ -36,6 +36,19 @@ public class Program {
 			acc5.updateBalance();
 			System.out.println("Update!");
 		}
+		
+		//SOBRECRITA
+		acc.deposit(1000.0);
+		acc.withdraw(200.0);
+		System.out.println(acc.getBalance());
+		
+		acc3.deposit(1000.0);
+		acc3.withdraw(200.0);
+		System.out.println(acc3.getBalance());
+		
+		acc2.deposit(1000.0);
+		acc2.withdraw(200.0);
+		System.out.println(acc2.getBalance());
 	}
 
 }
