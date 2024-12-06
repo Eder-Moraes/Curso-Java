@@ -1,0 +1,10 @@
+package aula130_heranca.entities;
+
+public class SavingsAccountPlus extends SavingsAccount{
+	
+//	@Override
+//	public void withdraw(double amount) {
+//		balance -= amount + 2.0;
+//	}
+	
+}
