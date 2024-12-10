@@ -1,10 +1,10 @@
-package solucaoRuim.model.entities;
+package solucaoBoa.model.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-import solucaoRuim.model.exceptions.DomainException;
+import solucaoBoa.model.exceptions.DomainException;
 
 public class Reservetion {
 	

@@ -1,12 +1,12 @@
-package solucaoRuim.application;
+package solucaoBoa.application;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import solucaoRuim.model.entities.Reservetion;
-import solucaoRuim.model.exceptions.DomainException;
+import solucaoBoa.model.entities.Reservetion;
+import solucaoBoa.model.exceptions.DomainException;
 
 public class Program {
 
