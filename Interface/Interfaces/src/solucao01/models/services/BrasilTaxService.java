@@ -1,6 +1,6 @@
 package solucao01.models.services;
 
-public class BrasilTaxService {
+public class BrasilTaxService implements TaxService{
 	
 	public double tax(double amount) {
 		if(amount <= 100.0) {
